@@ -35,7 +35,7 @@ This is a RESTful API for uploading and managing dog pictures, along with user a
   - `200 Created:` User details are returned.
   - `401 Bad Request:` If the token is invalid or not provided.
 
-## Endpoints
+## Dog Pic Endpoints
 
 ### Upload a Dog Pic
 
