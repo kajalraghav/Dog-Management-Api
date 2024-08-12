@@ -83,7 +83,7 @@ This is a RESTful API for uploading and managing dog pictures, along with user a
 
 1. Clone the repository.
 2. Install the dependencies: `npm install`
-3. Create a `.env` file with your MongoDB URI and server port.
+3. Create a `.env` file with your MongoDB URI and server port and JWT_SECRET.
 4. Start the server: `npm start`
 
 ## Running the Tests
